@@ -1,0 +1,13 @@
+---
+#
+# Configuration file for 'dhcp_univention' dhcp provider
+#
+
+# Domainname in DN syntax
+:dcDomain: dc=XXX,dc=XXX
+
+# Service name of the DHCP Server
+:dhcpServiceName: XXX.XXX
+
+# IP or Hostname of the Univention server
+:ucsServer: root@XXX.XXX.XXX.XXX
